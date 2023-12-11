@@ -1,0 +1,5 @@
+mechatrax-firmware-migration-helper (1.0.0) bookworm; urgency=low
+
+  * Initial release
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Fri, 08 Dec 2023 10:22:22 +0900
